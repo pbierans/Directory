@@ -1,0 +1,22 @@
+{
+  "name": "pbierans/directory",
+  "description": "Reads in a directory and allows to read some meta.",
+  "license": "private, do not use me in production context at all",
+  "authors": [
+    {
+      "name": "Patrick Bierans",
+      "email": "pbierans@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PatrickBierans\\Directory\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.1",
+    "pbierans/container-integration": "*"
+  }
+}

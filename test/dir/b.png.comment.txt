@@ -1,0 +1,5 @@
+
+
+                 comment of image b with newlines and spaces to be trimmed
+
+
